@@ -68,18 +68,43 @@ Differences:
 
 Your answer: Proper Pair programming techniques include establising responsibilities such as one person assumes the role of Driver and the other(s) role of Navigator(s). The driver physically manipulates the code in the IDE while engaging with the Navigator(s) in order to accomplish tasks. While the Navigators guides, backup review for proper syntax entries, and researches additional options for issues that may arrise while programming.  Another technieque in pair programming is developing a plan to follow for excuting a task assigned to the pair. 
 
-Researched answer:
+Researched answer: (from: OpenAI)
+
+Pair programming is a programming technique where two programmers work together on the same task, using a single computer. Proper pair programming techniques involve a structured approach to the collaboration that maximizes productivity, communication, and teamwork.
+
+The two main roles in pair programming are the driver and the navigator. The driver is the person who is actively typing at the computer, writing the code. The navigator is the person who is responsible for reviewing the code as it is being written, identifying potential issues and suggesting improvements.
+
+Here are some best practices for proper pair programming techniques:
+
+Establish clear goals and expectations: The pair should discuss what they hope to accomplish and what the expectations are for the session.
+
+Rotate roles regularly: It's important to switch roles regularly so that both team members have an opportunity to take on different responsibilities and stay engaged.
+
+Communicate frequently: The pair should communicate frequently to ensure that they are on the same page and that any issues are addressed in a timely manner.
+
+Take breaks: Regular breaks can help maintain focus and prevent burnout.
+
+Emphasize teamwork: Pair programming is a collaborative effort, so it's important to work together as a team and listen to each other's ideas.
+
+Review code regularly: The navigator should review the code as it is being written, looking for potential issues and suggesting improvements.
+
+By following these guidelines, pair programming can be an effective and efficient way to develop high-quality code.
 
 ## Looking Ahead: Terms for Next Week
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions:
+1. Higher Order Functions: (From OpenAI)
+Higher order functions are functions that can take funcitons as arguments and or return function as ther output. This means that they treat functions as data, "allowing for powerful abstraction and functional programming patterns.
 
-2. Jest:
+2. Jest: (From OpenAI)
+Jes is a popular JavaScript testing framework that is ofent used for testing React applications. It provides an easy-to-use API for writing tests, and includes features such as mocking and code coverage analysis.
 
-3. Objects:
+3. Objects: (From OpenAI)
+In JavaScript, an object is a collection of key-value pairs, where the keys are strings and the values can be any data type, including other objects. Objects are fundamental part of JavaScript and are often used to represent real-world entities and data structures. 
 
-4. Method:
+4. Method: (From OpenAI)
+A method is funciton that is asociated with an object. tit can valled on the object, adn can access and modify the object's properties. In JavaScript, methods are defined as functions withing an object's property.
 
-5. Classes:
+5. Classes: (From OpenAI)
+In object-oriented programming, a class is a blueprint or template for creating objects. it defines the properties and behavior that the objets will have . In JavaScript, clases were introduced in ES5 and provide a more intuitive and consie syntax for creating objects and defining thier properties and methods. 
