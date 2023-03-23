@@ -153,7 +153,7 @@
 // --------------------5) Create the code that will sort all the numbers in an array from largest to smallest. Use the test variables provided below.
 
 // Pseudo code:
-// In order to sort through the array the .sort() built-in method will be used to as a function used to compare with optional parameters().
+// In order to sort through the array the .sort() built-in method will be used to as a function used to compare with optional parameters().push
 // Using the compare fuction as (a,b) => b - a 
 // const sanDiegoSummerTemperatures = [79, 80, 72, 73, 82, 77, 76]
 // Expected output: [82, 80, 79, 77, 76, 73, 72]

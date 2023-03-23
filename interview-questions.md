@@ -41,6 +41,15 @@ Using the cubby holes anology, I consider the index of an array as being the sam
 
 As for value of an array, it is the product/element that is inserted, altered, or removed in each cuby hole.
 
+c
+
+ ------- ------- -------
+|       |       |       |
+|       |       |       |
+|       |       |       |
+ ------- ------- -------
+    0       1       2
+    index/cubie hole
 Researched answer:
 
 4. Compare and contrast arrays and strings. Please include ways in which they are the same and ways in which they are different.
